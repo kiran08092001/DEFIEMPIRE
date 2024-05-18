@@ -34,5 +34,5 @@ The "DeFi(Empire)" project introduces an ERC20 token, "KIRAN" (K), and a Vault c
 
 ## Authors
 
-- Kiran Karg
+- Kiran Garg
 - GitHub: [https://github.com/kiran08092001](https://github.com/kiran08092001)
